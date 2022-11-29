@@ -27,7 +27,8 @@ This is a [Next.js](https://nextjs.org/) template to use when reporting a [bug i
 
 ```bash
 npm install
-npm start
+npm run build
+npm run start
 ```
 
 Navigate to http://localhost:3000/
